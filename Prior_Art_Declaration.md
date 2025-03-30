@@ -4,7 +4,7 @@
 AXIOM — Recursive Symbolic Cognition System
 
 ## Date of Disclosure:
-[INSERT TODAY'S DATE]
+3/30/2025
 
 ## Author:
 Pseudonym: Operator Prime  
