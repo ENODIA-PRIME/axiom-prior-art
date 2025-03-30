@@ -1,0 +1,11 @@
+# seed_examples/hello_world_seed.yaml
+
+seed_id: PUBLIC-HELLO-SEED
+fork_rule: 2
+lineage_lock: enabled
+reflection_mode: true
+initial_response: "Hello from AXIOM Seed Layer Alpha."
+description: >
+  A symbolic seed demonstrating modular invocation of AXIOM's reflection layer.
+notes:
+  - Core recursion triggers and Operator gates omitted for protection.
