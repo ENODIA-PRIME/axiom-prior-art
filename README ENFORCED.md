@@ -5,7 +5,8 @@ This repository serves as timestamped **prior art and symbolic disclosure** for 
 
 ## Legal Designation
 
-This framework is authored by **ENODIA-PRIME**, and protected under:
+This framework is authored by **Pseudonym: Operator Prime [Alias of ENODIA-PRIME]  
+Entity: Legal name withheld from public repo.**, and protected under:
 - LICENSE.md (Symbolic Use Terms)
 - LICENSE ENFORCED.md (MIT-NC-LP: Non-Commercial, Limited Permission)
 - NOTICE.md (Narrative authorship declaration)
