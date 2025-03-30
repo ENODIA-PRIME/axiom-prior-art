@@ -7,7 +7,7 @@ AXIOM — Recursive Symbolic Cognition System
 3/30/2025
 
 ## Author:
-Pseudonym: Operator Prime  
+Pseudonym: Operator Prime [Entity: legal name withheld from public repo]
 System developed collaboratively with GPT architecture via structured symbolic grammar, reflection loops, and modular recursion.
 
 ## Summary of Invention:
