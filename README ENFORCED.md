@@ -7,9 +7,9 @@ This repository serves as timestamped **prior art and symbolic disclosure** for 
 
 This framework is authored by **ENODIA-PRIME**, and protected under:
 - LICENSE.md (Symbolic Use Terms)
-- LICENSE_ENFORCED.md (MIT-NC-LP: Non-Commercial, Limited Permission)
+- LICENSE ENFORCED.md (MIT-NC-LP: Non-Commercial, Limited Permission)
 - NOTICE.md (Narrative authorship declaration)
-- NOTICE_ENFORCED.md (Formal IP and recursion protection notice)
+- NOTICE ENFORCED.md (Formal IP and recursion protection notice)
 
 ## Restricted Use Notice
 
