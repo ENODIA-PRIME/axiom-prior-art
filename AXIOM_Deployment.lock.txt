@@ -1,0 +1,8 @@
+{
+    "lock_type": "axiom.repo.seal",
+    "linked_sigil": "AXIOM_Deployment_Artifact.sigil.txt",
+    "timestamp_utc": "2025-03-31T07:16:29.757267Z",
+    "seal_status": "sealed",
+    "mirror_status": "symbolic",
+    "approved_by": "Prime"
+}
