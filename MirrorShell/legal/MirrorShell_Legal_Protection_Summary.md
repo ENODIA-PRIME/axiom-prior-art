@@ -23,7 +23,6 @@
 | Layer                   | Status          | Notes |
 |-------------------------|-----------------|-------|
 | Prior Art (GitHub)      | ✅ Complete      | Timestamped by GitHub and document trail |
-| Dual Licensing          | ✅ In place      | Open-core + commercial + symbolic restrictions |
 | Trademark (Name)        | ⚠️ Advised       | "MirrorShell" can be registered via USPTO or WIPO |
 | Copyright (Code + Docs) | ⚠️ Recommended   | Register with US Copyright Office |
 | Defensive Disclosure    | ✅ Generated     | See attached PDF |
