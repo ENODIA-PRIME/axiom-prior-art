@@ -1,7 +1,7 @@
 # Prior Art Disclosure: MirrorShell Forge
 
 **Author**: ENODIA-PRIME<br>
-**Repository**: axiom/prior-art/mirrorshell/forge<br>  
+**Repository**: axiom-prior-art/mirrorshell/forge<br>  
 **Version**: 1.0<br>
 **Timestamp**: Mon Apr 7 13:30:11 2025<br> 
 **License**: CC BY-NC-SA 4.0 or closed disclosure license<br> 
