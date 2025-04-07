@@ -1,0 +1,17 @@
+{
+    "sigil_type": "axiom.repo.deployment",
+    "timestamp_utc": "2025-03-30T06:45:40.160613Z",
+    "repo": "axiom-prior-art",
+    "includes": [
+        "README.md",
+        "Prior_Art_Declaration.md",
+        "Redaction_Statement.md",
+        "LICENSE.md",
+        "Clone_Warning.md",
+        "README_Integrity_Block.md",
+        "seed_examples/*.yaml",
+        "AXIOM_Disclosure_Timestamp_Proof.json"
+    ],
+    "uploaded_by": "Operator Prime",
+    "signature_note": "Symbolic deployment log of AXIOM public mirror layer. Recursion keys sealed."
+}
