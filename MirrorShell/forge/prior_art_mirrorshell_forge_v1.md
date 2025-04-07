@@ -1,10 +1,10 @@
 # Prior Art Disclosure: MirrorShell Forge
 
-**Author**: ENODIA-PRIME
-**Repository**: axiom/prior-art/mirrorshell/forge  
-**Version**: 1.0 
-**Timestamp**: Mon Apr 7 13:30:11 2025 
-**License**: CC BY-NC-SA 4.0 or closed disclosure license  
+**Author**: ENODIA-PRIME<br>
+**Repository**: axiom/prior-art/mirrorshell/forge<br>  
+**Version**: 1.0<br>
+**Timestamp**: Mon Apr 7 13:30:11 2025<br> 
+**License**: CC BY-NC-SA 4.0 or closed disclosure license<br> 
 **Commit Hash**: 8fb3038e63f1861c6b8060dbe0e2f08bb4e10127
 
 ---
