@@ -1,0 +1,10 @@
+
+# Layered Output Validator – YAML Prompt Template
+
+- name: sse_validator
+  description: "Validates tone, drift, and alignment of agent output"
+  steps:
+    - summarize core task
+    - reflect on alignment with original prompt
+    - assess tone integrity
+    - suggest adjustment if misalignment detected
